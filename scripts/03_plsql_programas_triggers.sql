@@ -18,9 +18,9 @@
 
 
 -- =============================================================================
--- SECCIÓN 2: CHRISTIAN TERÁN
+-- SECCIÓN 2: CRISTIAN TERÁN
 -- =============================================================================
 
 -- [Registrar aquí los bloques PL/SQL (CREATE OR REPLACE TRIGGER / PROCEDURE /
---  FUNCTION) correspondientes a Christian Terán]
+--  FUNCTION) correspondientes a Cristian Terán]
 

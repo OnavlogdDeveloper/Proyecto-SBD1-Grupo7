@@ -18,9 +18,9 @@
 
 
 -- =============================================================================
--- SECCIÓN 2: CHRISTIAN TERÁN
+-- SECCIÓN 2: CRISTIAN TERÁN
 -- =============================================================================
 
 -- [Registrar aquí las sentencias CREATE TABLE, ALTER TABLE, CREATE SEQUENCE,
---  CREATE INDEX y CREATE VIEW correspondientes a Christian Terán]
+--  CREATE INDEX y CREATE VIEW correspondientes a Cristian Terán]
 

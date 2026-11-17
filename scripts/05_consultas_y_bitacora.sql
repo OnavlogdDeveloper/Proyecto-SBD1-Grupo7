@@ -17,8 +17,8 @@
 
 
 -- =============================================================================
--- SECCIÓN 2: CHRISTIAN TERÁN
+-- SECCIÓN 2: CRISTIAN TERÁN
 -- =============================================================================
 
--- [Registrar aquí las consultas y comandos SQL ejecutados por Christian Terán]
+-- [Registrar aquí las consultas y comandos SQL ejecutados por Cristian Terán]
 

@@ -18,9 +18,9 @@
 
 
 -- =============================================================================
--- SECCIÓN 2: CHRISTIAN TERÁN
+-- SECCIÓN 2: CRISTIAN TERÁN
 -- =============================================================================
 
 -- [Registrar aquí las sentencias INSERT y COMMIT correspondientes
---  a Christian Terán]
+--  a Cristian Terán]
 

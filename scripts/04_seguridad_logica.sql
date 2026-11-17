@@ -18,9 +18,9 @@
 
 
 -- =============================================================================
--- SECCIÓN 2: CHRISTIAN TERÁN
+-- SECCIÓN 2: CRISTIAN TERÁN
 -- =============================================================================
 
 -- [Registrar aquí las sentencias CREATE ROLE, CREATE USER, GRANT y REVOKE
---  correspondientes a Christian Terán]
+--  correspondientes a Cristian Terán]
 

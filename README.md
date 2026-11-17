@@ -4,7 +4,7 @@ Repositorio centralizado para la gestión, control de versiones de comandos SQL 
 
 **Integrantes del Grupo 7:**
 - **Onassis Torrealba**
-- **Christian Terán**
+- **Cristian Terán**
 
 **Profesora:** Lúcia Cardoso
 
@@ -67,7 +67,7 @@ A continuación se listan las herramientas que conforman el ecosistema tecnológ
 
 ## 3. Estructura de Scripts SQL
 
-Todos los comandos SQL realizados en la base de datos Oracle XE 21c se registran en la carpeta [`scripts/`](./scripts/), organizados por fase de implementación y divididos internamente en secciones de código para **Onassis Torrealba** y **Christian Terán**:
+Todos los comandos SQL realizados en la base de datos Oracle XE 21c se registran en la carpeta [`scripts/`](./scripts/), organizados por fase de implementación y divididos internamente en secciones de código para **Onassis Torrealba** y **Cristian Terán**:
 
 - [`scripts/01_ddl_estructura.sql`](./scripts/01_ddl_estructura.sql): Creación de la estructura física según el modelo E-R ideal (tablas clasificadas en Entrada `E`, Salida `S` y Entrada/Salida `E/S`, restricciones de integridad `PK`/`FK`/`CHECK`, secuencias, índices y vistas).
 - [`scripts/02_dml_inserts.sql`](./scripts/02_dml_inserts.sql): Sentencias `INSERT` con los lotes de registros de prueba y de negocio (mínimo 10 registros reales, de calidad y no repetidos por cada tabla de entrada).
