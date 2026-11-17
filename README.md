@@ -51,17 +51,17 @@ A continuación se listan las herramientas que conforman el ecosistema tecnológ
 
 ---
 
-## 2. Portal de Artefactos y Documentación del Proyecto
+## 2. Portal de Artefactos y Documentación del Proyecto (Google Drive)
 
-Directorio de acceso rápido a los documentos, especificaciones y modelos del proyecto:
+**Carpeta Central en Google Drive:** [DriveGrupo7BD](https://drive.google.com/drive/folders/1pNTw8RYkS0tX6eVReZhHlQfLRxvV-AIr)
 
-| Artefacto / Documento | Descripción | Ubicación / Enlace |
+| Artefacto / Documento | Descripción | Enlace en Google Drive / Docs |
 | :--- | :--- | :--- |
-| **Ecosistema del Grupo 7** | Especificación técnica, arquitectura y comportamiento de las herramientas del proyecto. | [Ecosistema del Grupo 7 (PDF Local)](../Ecosistema%20del%20Grupo%207%20para%20el%20desarrollo%20de%20la%20base%20de%20datos.pdf) / `[Enlace a Google Docs por agregar]` |
-| **Especificaciones del Caso de Estudio** | Lineamientos generales y entregas evaluadas del semestre 202715. | [Especificaciones Caso Estudio SBD1](../EspecificacionesCasoEstudioSBD1.pdf) |
-| **Calendario de la Asignatura** | Cronograma oficial de entregas y evaluaciones de SBD1. | [Calendario SBD1](../CalendarioSBD1.pdf) |
-| **Modelo Entidad-Relación (E-R Ideal)** | Esquema conceptual definitivo de las agencias de viajes (Tablas E, S y E/S). | [Modelo E-R Ideal (ERSBDI.pdf)](../ERSBDI.pdf) |
-| **Resumen de Reunión de Requerimientos** | Reglas de integridad explícitas validadas y lista formal de programas y reportes. | `[Enlace a Google Docs por agregar]` |
+| **Ecosistema del Grupo 7** | Especificación técnica, arquitectura y comportamiento de las herramientas del proyecto. | [Abrir en Google Docs](https://docs.google.com/document/d/1jEYxsCQ18kRJlLdVEHM3p4QCsgNE9CyKi-74JiFkyWo/edit) |
+| **Reglas de Integridad del Caso de Estudio** | Especificación y justificación técnica de las reglas de integridad explícitas (RI-01 a RI-05). | [Abrir en Google Docs](https://docs.google.com/document/d/1PHqwM5ADqrMSK8wqpV2XIH1y8ON6d7U--ep2rhxuF80/edit) |
+| **Enunciado del Caso de Estudio (Transcripción)** | Transcripción íntegra en Google Docs del enunciado *Caso de Estudio 1 – Viajes y Turismo*. | [Abrir en Google Docs](https://docs.google.com/document/d/15XiShZHlyQUcwnQYJ4ythWBxyPeO_9c_xpRKJWuP30g/edit) |
+| **Modelo Entidad-Relación (`ERSBDI.pdf`)** | Esquema conceptual definitivo de las agencias de viajes (Tablas E, S y E/S). | [Ver PDF en Google Drive](https://drive.google.com/file/d/1DRl0XuzpjhKS64cTTQkFimgDkqyJ_byO/view) |
+| **Especificaciones del Caso de Estudio** | Lineamientos generales y entregas evaluadas del semestre 202715 (`EspecificacionesCasoEstudioSBD1.pdf`). | [Ver PDF en Google Drive](https://drive.google.com/file/d/1v7Qx2kTgTaoweDW08Wvu8AOiHgQw0Ldw/view) |
 
 ---
 
