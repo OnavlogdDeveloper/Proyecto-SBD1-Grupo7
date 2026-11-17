@@ -1,0 +1,14 @@
+# Archivos temporales de sistema operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Archivos temporales de IDEs (JetBrains DataGrip)
+.idea/
+*.iml
+
+# Archivos compilados o temporales de reportes (si se agregan)
+*.jasper
+*.bak
+*.log
+*.tmp
