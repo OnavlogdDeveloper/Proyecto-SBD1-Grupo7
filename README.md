@@ -61,6 +61,7 @@ A continuación se listan las herramientas que conforman el ecosistema tecnológ
 | **Reglas de Integridad del Caso de Estudio** | Especificación y justificación técnica de las reglas de integridad explícitas (RI-01 a RI-05). | [Abrir en Google Docs](https://docs.google.com/document/d/1PHqwM5ADqrMSK8wqpV2XIH1y8ON6d7U--ep2rhxuF80/edit) |
 | **Enunciado del Caso de Estudio (Transcripción)** | Transcripción íntegra en Google Docs del enunciado *Caso de Estudio 1 – Viajes y Turismo*. | [Abrir en Google Docs](https://docs.google.com/document/d/15XiShZHlyQUcwnQYJ4ythWBxyPeO_9c_xpRKJWuP30g/edit) |
 | **Modelo Entidad-Relación (`ERSBDI.pdf`)** | Esquema conceptual definitivo de las agencias de viajes (Tablas E, S y E/S). | [Ver PDF en Google Drive](https://drive.google.com/file/d/1DRl0XuzpjhKS64cTTQkFimgDkqyJ_byO/view) |
+| **Diagrama E-R y Modelo Lógico (Lucidchart)** | Documentación interactiva y más legible del diagrama Entidad-Relación y del modelo lógico del proyecto. | [Abrir en Lucidchart](https://lucid.app/lucidchart/f19f1e35-b01e-4849-89d8-20bb93308252/edit?viewport_loc=237%2C3941%2C3182%2C1438%2C0_0&invitationId=inv_6818f9b4-e277-4f21-9a17-95e79b0fb858) |
 | **Especificaciones del Caso de Estudio** | Lineamientos generales y entregas evaluadas del semestre 202715 (`EspecificacionesCasoEstudioSBD1.pdf`). | [Ver PDF en Google Drive](https://drive.google.com/file/d/1v7Qx2kTgTaoweDW08Wvu8AOiHgQw0Ldw/view) |
 
 ---
