@@ -75,3 +75,13 @@ Todos los comandos SQL realizados en la base de datos Oracle XE 21c se registran
 - [`scripts/03_plsql_programas_triggers.sql`](./scripts/03_plsql_programas_triggers.sql): Codificación de objetos programables en PL/SQL (triggers, procedimientos almacenados, funciones y cursores `SYS_REFCURSOR` para reportes) encargados de automatizar las reglas de integridad explícitas.
 - [`scripts/04_seguridad_logica.sql`](./scripts/04_seguridad_logica.sql): Diseño e implementación del esquema de seguridad lógica (creación de roles, cuentas de usuario, privilegios de sistema y privilegios sobre objetos).
 - [`scripts/05_consultas_y_bitacora.sql`](./scripts/05_consultas_y_bitacora.sql): Registro histórico y bitácora de consultas SQL de verificación, pruebas y consultas ejecutadas en el motor de base de datos.
+
+---
+
+## 4. Casos de Prueba
+
+La carpeta [`casos_de_prueba/`](./casos_de_prueba/) centraliza los scripts de validación funcional y de integridad sobre Oracle Database 21c XE:
+
+- [`casos_de_prueba/README.md`](./casos_de_prueba/README.md): Guía y convención de registro de casos de prueba.
+- [`casos_de_prueba/01_casos_de_prueba_ddl_dml.sql`](./casos_de_prueba/01_casos_de_prueba_ddl_dml.sql): Pruebas de estructura (DDL), restricciones y carga mínima de datos (`RI-05`).
+- [`casos_de_prueba/02_casos_de_prueba_plsql_seguridad.sql`](./casos_de_prueba/02_casos_de_prueba_plsql_seguridad.sql): Pruebas de triggers, programas almacenados (`RI-01` a `RI-04`) y seguridad lógica.
